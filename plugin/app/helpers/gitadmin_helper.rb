@@ -1,0 +1,2 @@
+module GitadminHelper
+end
